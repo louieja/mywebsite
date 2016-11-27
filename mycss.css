@@ -3,3 +3,22 @@ body {
     background-size:100%;
     text-align: center;
 }
+
+.btn-defaults{
+	font-family: "Freestyle Script";
+	font-size:175%;
+	color:#7CFC00;
+}
+.first{
+font-family: "Freestyle Script";
+	font-size:250%;
+	color:#7CFC00;	
+}
+
+.second{
+	font-family: "Freestyle Script";
+	color:#7CFC00;
+	font-size:250%;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
