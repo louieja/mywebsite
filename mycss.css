@@ -2,6 +2,7 @@ body {
     background-image: url("pigs.jpg");
     background-size:100%;
     text-align: center;
+    background-repeat: no-repeat;
 }
 
 .btn-defaults{
