@@ -1,0 +1,30 @@
+h1{
+    color: blue;
+    font-size: 52px;
+}
+
+.first{
+	text-align: center; 
+	width: 660px;
+	margin-right: auto;
+	margin-left: auto;
+	border-top: 2px solid blue;
+	border-bottom: 2px solid white;
+}
+
+.second{
+	text-align: center;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 5px solid red;
+	padding: 25px;
+}
+
+.img1{
+	display: inline-block;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
